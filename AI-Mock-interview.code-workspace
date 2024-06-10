@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "AI-Mock-interview",
+			"path": "."
+		},
+		{
+			"path": "../dataset_generation"
+		}
+	],
+	"settings": {}
+}
